@@ -1,4 +1,4 @@
- /***************************************************
+ /*************************************************************************
   Adafruit MQTT Library ESP8266 Example
 
   Must use ESP8266 Arduino from:
@@ -25,7 +25,7 @@
   #techiesms
   explore | learn | share
   
- ****************************************************/
+ **************************************************************************/
 #include <ESP8266WiFi.h>
 #include "Adafruit_MQTT.h"
 #include "Adafruit_MQTT_Client.h"
